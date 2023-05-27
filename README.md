@@ -1,2 +1,2 @@
 # Currículo
-## Criei meu próprio curriculo ultilizando Bootstrap, HTML, CSS e JavaScript.
+## Criei meu próprio currículo ultilizando Bootstrap, HTML, CSS e JavaScript.
